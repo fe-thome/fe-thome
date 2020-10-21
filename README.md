@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fernando T. F. Comparoni!
 
-My name is Fernando, 38 years old from Santo André-SP. Working hard to became a Fullstack Developer.<br>
+My name is Fernando, 38 years old from Santo André-SP and I'm working hard to became a Fullstack Developer.<br>
 Focus in Node.js, React.js, React Native and all javascript ecosystem.
 
 <!--
