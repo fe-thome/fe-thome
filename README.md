@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Fernando T. F. Comparoni!
 
-My name is Fernando, 38 years old from Santo André-SP. Working hard to became a Fullstack developer focus in Node.js, React.js, React Native and all javascript ecosystem.
-I am starting to get used to githubing and all stuffs..
-
+My name is Fernando, 38 years old from Santo André-SP. Working hard to became a Fullstack Developer.<br>
+Focus in Node.js, React.js, React Native and all javascript ecosystem.
 
 <!--
 **fe-thome/fe-thome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
